@@ -1,0 +1,43 @@
+<meta name='viewport' content='width=device-width, initial-scale=1'/><!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8"> <!-- corrigé pour le charset -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hotel leader gold </title>
+</head>
+<body style="background-color: #404b49" ;>
+<hr>
+<img img="lune"> 
+    <!-- Correction de la balise header et style inline -->
+    <header style="color:black;padding:20px;margin:0px;height 20pxwidth:100%;">
+        <h1 style="color: red;">hôtel leader gold </h1>
+    </header> 
+   <input type="text" style="color: red ; Background-color:black" placeholder="recherche" />
+   <p style="color: blue; font-size: 18px; text-align: center;">
+  Bonjour, je m'appelle Claver. Ceci est un paragraphe stylé.
+</p>
+<p style="color: blue; font-size: 18px; text-align: center;">
+  je vous present mon site web de reservation d'hotel partout abidjan </p>
+  <h2 style="color:red;"> bienvenu chez nous akwaba </h2> 
+  <nav style="color:white;font-size: 19px;">
+    <ul style="color:white;font-size: 19px;">
+      <li><a href="wwwbonus;"> menu principal </a></li>
+      <li><a href="wwwservicecilent;">Services</a></li>
+      <li><a href="wwwserviceclient;">Contact</a></li>
+    </ul>
+  </nav>
+  <main>
+  <h3 style="color:red;">option </h3>
+  <p style="color=blue;font-size:19px; text-align: right;"> </p>
+  <section>
+    <h2>nos service e</h2>
+    <p style="color: white;font-size: 20px; background-color:black;" >nous faite des reservation partout abidjan airbnb maison d'akoula etc ...</p>
+  </section>
+</main>
+ <footer style="color:white;font-size:19px;">le site est ouvert 7j/7</footer>
+      <p style="color:black; font-size: 18px;">@hotelleaderglod; 2020abidjan</p>
+    </footer>
+  </body>
+</html> 
+</body>
+</html>
